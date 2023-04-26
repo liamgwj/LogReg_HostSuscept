@@ -10,9 +10,6 @@ library(data.table) # version 1.14.2
 library(dplyr) # version 1.0.10
 library(ggplot2) # version 3.3.6
 library(gridExtra) # version 2.3
-library(ggpointdensity) # version 
-library(viridis) # version 0.6.2
-library(egg)
 
 # don't use scientific notation for plot axes
 options(scipen = 999)
